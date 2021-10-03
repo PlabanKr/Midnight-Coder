@@ -1,0 +1,25 @@
+{
+    "name": "midnight-coder",
+    "displayName": "Midnight Coder",
+    "description": "A dark color theme for midnight coder",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Midnight Coder",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Midnight Coder-color-theme.json"
+            }
+        ]
+    }
+}
