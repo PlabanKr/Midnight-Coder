@@ -4,6 +4,7 @@
     "description": "A dark color theme for midnight coder",
     "version": "0.0.1",
     "publisher": "PlabanKrMondal",
+    "icon": "assets/logo.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/PlabanKr/Midnight-Coder.git"
