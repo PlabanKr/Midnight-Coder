@@ -3,10 +3,17 @@
     "displayName": "Midnight Coder",
     "description": "A dark color theme for midnight coder",
     "version": "0.0.1",
+    "publisher": "PlabanKrMondal",
     "repository": {
         "type": "git",
         "url": ""
     },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "midnight coder",
+        "midnight"
+    ],
     "engines": {
         "vscode": "^1.60.0"
     },
