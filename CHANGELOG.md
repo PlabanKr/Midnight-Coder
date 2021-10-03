@@ -2,8 +2,11 @@
 
 All notable changes to the "midnight-coder" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+The format is based on [Keep a Changelog](http://keepachangelog.com/).
+
+## [0.0.1] 
+
+* Initial release.
 
 ## [Unreleased]
 
-- Initial release
