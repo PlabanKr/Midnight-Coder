@@ -4,7 +4,7 @@ All notable changes to the "midnight-coder" extension will be documented in this
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
-## [0.0.2] 
+## [0.0.3] 
 
 * Added logo.
 
